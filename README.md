@@ -10,3 +10,5 @@ In this demo, it searches for a property with a value containing the string "EXA
 The property is defined in application.properties file.
 
 A bean that consumes the property is named "SomeBean" and it demonstrates the replacement by printing the value of the property (the replaced one) to the console.
+
+Important: The demonstration is in DemoForApplicationContextInitializerApplication run , not the SpringBootTest! 
